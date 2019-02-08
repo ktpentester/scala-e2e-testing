@@ -1,5 +1,7 @@
 # scala-e2e-testing
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8109edae2bb74494a24cd21f7419de28)](https://app.codacy.com/app/ktpentester/scala-e2e-testing?utm_source=github.com&utm_medium=referral&utm_content=ktpentester/scala-e2e-testing&utm_campaign=Badge_Grade_Dashboard)
+
 This is a sample project that shows how to write truly end-to-end tests in Scala. It accompanies a talk I gave at [Scalapeno](http://www.scalapeno.org.il/) 2014 titled [*"True End-to-End Testing in Scala"*](http://orrsella.com/2014/09/24/true-end-to-end-testing-in-scala-scalapeno-2014-talk/).
 
 ## Project
